@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FirstFlightCS/1.0.0": {
+        "dependencies": {
+          "OOPS": "1.0.0"
+        },
+        "runtime": {
+          "FirstFlightCS.dll": {}
+        }
+      },
+      "OOPS/1.0.0": {
+        "runtime": {
+          "OOPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstFlightCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
